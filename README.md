@@ -1,2 +1,2 @@
 # Gas-Notifier
-Software part of gas level notifier with sound and email warning
+University project. Software part of gas level notifier with sound and email warning. Microcontroler used in project Raspberry Pi Zero.
